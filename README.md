@@ -1,4 +1,3 @@
-
 # Reto-ODS4-WebSostenible
 
 \# Proyecto Web: Hnet -ODS 4
@@ -32,3 +31,7 @@ Nuestra plataforma web permitirá:
 Para que esta web funcione en el servidor, necesitaremos almacenar al menos la siguiente información:
 - `Usuarios` Se necesitara el rol del usuario para saber si es docente o alumno, el correo de este para usarlo como nombre de usuario y una contraseña.
 - `[Entidad 2]` Se almacenaran los datos de los usuarios y la actividad realizada en las ultimas horas de cada usuario
+
+A continuación se muestra el *wireframe* de la pantalla principal de nuestra
+aplicación web, diseñada para verse en un navegador de escritorio:
+![Prototipo de la Interfaz Web](figma1.png)
